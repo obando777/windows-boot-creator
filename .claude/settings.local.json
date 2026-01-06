@@ -15,7 +15,8 @@
       "Bash(osascript:*)",
       "Bash(kill:*)",
       "Bash(./build.sh:*)",
-      "Bash(xattr:*)"
+      "Bash(xattr:*)",
+      "Bash(./release.sh:*)"
     ]
   }
 }
