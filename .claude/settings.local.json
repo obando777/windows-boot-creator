@@ -1,0 +1,21 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(chmod:*)",
+      "Bash(./run-all-tests.sh:*)",
+      "Bash(cat:*)",
+      "Bash(bash -c:*)",
+      "Bash(source:*)",
+      "Bash(source lib/mock-data.sh:*)",
+      "Bash(echo:*)",
+      "Bash(xcodebuild:*)",
+      "Bash(sudo xcode-select:*)",
+      "Bash(swift --version:*)",
+      "Bash(swift build:*)",
+      "Bash(osascript:*)",
+      "Bash(kill:*)",
+      "Bash(./build.sh:*)",
+      "Bash(xattr:*)"
+    ]
+  }
+}

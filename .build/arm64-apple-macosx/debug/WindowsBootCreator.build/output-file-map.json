@@ -1,0 +1,119 @@
+{
+  "": {
+    "swift-dependencies": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/master.swiftdeps"
+  },
+  "/Users/obando/windows-boot/WindowsBootCreator/Models/CreationProgress.swift": {
+    "dependencies": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/CreationProgress.d",
+    "object": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/CreationProgress.swift.o",
+    "swiftmodule": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/CreationProgress~partial.swiftmodule",
+    "swift-dependencies": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/CreationProgress.swiftdeps"
+  },
+  "/Users/obando/windows-boot/WindowsBootCreator/Models/USBDrive.swift": {
+    "dependencies": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/USBDrive.d",
+    "object": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/USBDrive.swift.o",
+    "swiftmodule": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/USBDrive~partial.swiftmodule",
+    "swift-dependencies": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/USBDrive.swiftdeps"
+  },
+  "/Users/obando/windows-boot/WindowsBootCreator/Models/WizardStep.swift": {
+    "dependencies": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/WizardStep.d",
+    "object": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/WizardStep.swift.o",
+    "swiftmodule": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/WizardStep~partial.swiftmodule",
+    "swift-dependencies": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/WizardStep.swiftdeps"
+  },
+  "/Users/obando/windows-boot/WindowsBootCreator/Services/DependencyService.swift": {
+    "dependencies": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/DependencyService.d",
+    "object": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/DependencyService.swift.o",
+    "swiftmodule": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/DependencyService~partial.swiftmodule",
+    "swift-dependencies": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/DependencyService.swiftdeps"
+  },
+  "/Users/obando/windows-boot/WindowsBootCreator/Services/DiskService.swift": {
+    "dependencies": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/DiskService.d",
+    "object": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/DiskService.swift.o",
+    "swiftmodule": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/DiskService~partial.swiftmodule",
+    "swift-dependencies": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/DiskService.swiftdeps"
+  },
+  "/Users/obando/windows-boot/WindowsBootCreator/Services/FileTransferService.swift": {
+    "dependencies": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/FileTransferService.d",
+    "object": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/FileTransferService.swift.o",
+    "swiftmodule": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/FileTransferService~partial.swiftmodule",
+    "swift-dependencies": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/FileTransferService.swiftdeps"
+  },
+  "/Users/obando/windows-boot/WindowsBootCreator/Services/ISOService.swift": {
+    "dependencies": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/ISOService.d",
+    "object": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/ISOService.swift.o",
+    "swiftmodule": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/ISOService~partial.swiftmodule",
+    "swift-dependencies": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/ISOService.swiftdeps"
+  },
+  "/Users/obando/windows-boot/WindowsBootCreator/Services/WimService.swift": {
+    "dependencies": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/WimService.d",
+    "object": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/WimService.swift.o",
+    "swiftmodule": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/WimService~partial.swiftmodule",
+    "swift-dependencies": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/WimService.swiftdeps"
+  },
+  "/Users/obando/windows-boot/WindowsBootCreator/Utilities/DiskUtilParser.swift": {
+    "dependencies": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/DiskUtilParser.d",
+    "object": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/DiskUtilParser.swift.o",
+    "swiftmodule": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/DiskUtilParser~partial.swiftmodule",
+    "swift-dependencies": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/DiskUtilParser.swiftdeps"
+  },
+  "/Users/obando/windows-boot/WindowsBootCreator/Utilities/ShellExecutor.swift": {
+    "dependencies": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/ShellExecutor.d",
+    "object": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/ShellExecutor.swift.o",
+    "swiftmodule": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/ShellExecutor~partial.swiftmodule",
+    "swift-dependencies": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/ShellExecutor.swiftdeps"
+  },
+  "/Users/obando/windows-boot/WindowsBootCreator/ViewModels/BootCreatorViewModel.swift": {
+    "dependencies": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/BootCreatorViewModel.d",
+    "object": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/BootCreatorViewModel.swift.o",
+    "swiftmodule": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/BootCreatorViewModel~partial.swiftmodule",
+    "swift-dependencies": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/BootCreatorViewModel.swiftdeps"
+  },
+  "/Users/obando/windows-boot/WindowsBootCreator/Views/CompletionView.swift": {
+    "dependencies": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/CompletionView.d",
+    "object": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/CompletionView.swift.o",
+    "swiftmodule": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/CompletionView~partial.swiftmodule",
+    "swift-dependencies": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/CompletionView.swiftdeps"
+  },
+  "/Users/obando/windows-boot/WindowsBootCreator/Views/ConfirmationView.swift": {
+    "dependencies": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/ConfirmationView.d",
+    "object": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/ConfirmationView.swift.o",
+    "swiftmodule": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/ConfirmationView~partial.swiftmodule",
+    "swift-dependencies": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/ConfirmationView.swiftdeps"
+  },
+  "/Users/obando/windows-boot/WindowsBootCreator/Views/ContentView.swift": {
+    "dependencies": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/ContentView.d",
+    "object": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/ContentView.swift.o",
+    "swiftmodule": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/ContentView~partial.swiftmodule",
+    "swift-dependencies": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/ContentView.swiftdeps"
+  },
+  "/Users/obando/windows-boot/WindowsBootCreator/Views/CreationProgressView.swift": {
+    "dependencies": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/CreationProgressView.d",
+    "object": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/CreationProgressView.swift.o",
+    "swiftmodule": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/CreationProgressView~partial.swiftmodule",
+    "swift-dependencies": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/CreationProgressView.swiftdeps"
+  },
+  "/Users/obando/windows-boot/WindowsBootCreator/Views/ISOSelectionView.swift": {
+    "dependencies": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/ISOSelectionView.d",
+    "object": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/ISOSelectionView.swift.o",
+    "swiftmodule": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/ISOSelectionView~partial.swiftmodule",
+    "swift-dependencies": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/ISOSelectionView.swiftdeps"
+  },
+  "/Users/obando/windows-boot/WindowsBootCreator/Views/USBSelectionView.swift": {
+    "dependencies": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/USBSelectionView.d",
+    "object": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/USBSelectionView.swift.o",
+    "swiftmodule": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/USBSelectionView~partial.swiftmodule",
+    "swift-dependencies": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/USBSelectionView.swiftdeps"
+  },
+  "/Users/obando/windows-boot/WindowsBootCreator/Views/WelcomeView.swift": {
+    "dependencies": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/WelcomeView.d",
+    "object": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/WelcomeView.swift.o",
+    "swiftmodule": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/WelcomeView~partial.swiftmodule",
+    "swift-dependencies": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/WelcomeView.swiftdeps"
+  },
+  "/Users/obando/windows-boot/WindowsBootCreator/WindowsBootCreatorApp.swift": {
+    "dependencies": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/WindowsBootCreatorApp.d",
+    "object": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/WindowsBootCreatorApp.swift.o",
+    "swiftmodule": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/WindowsBootCreatorApp~partial.swiftmodule",
+    "swift-dependencies": "/Users/obando/windows-boot/.build/arm64-apple-macosx/debug/WindowsBootCreator.build/WindowsBootCreatorApp.swiftdeps"
+  }
+}

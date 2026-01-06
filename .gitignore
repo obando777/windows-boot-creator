@@ -1,0 +1,12 @@
+mytasks/
+.tmp/
+.DS_Store
+.vscode/
+.idea/
+node_modules/
+dist/
+build/
+.env
+.env.local
+
+
